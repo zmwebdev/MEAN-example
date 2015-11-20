@@ -12,4 +12,3 @@ $ npm --verbose install -g grunt grunt-cli bower yo generator-angular-fullstack
 
 $ yo angular-fullstack YOUR_APP_NAME
 ```
-
